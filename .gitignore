@@ -166,3 +166,5 @@ cython_debug/
 
 .MNIST\*
 .PetImages\*
+.PetImages\Cat\*
+.PetImages\Dog\*
