@@ -164,4 +164,5 @@ cython_debug/
 
 #data
 
-MNIST\*
+.MNIST\*
+.kagglecatsanddogs_5340\*
