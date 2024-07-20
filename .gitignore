@@ -165,4 +165,6 @@ cython_debug/
 #data
 
 .MNIST\*
-.kagglecatsanddogs_5340\*
+.PetImages\*
+.PetImages\Cat\*
+.PetImages\Dog\*
