@@ -162,9 +162,8 @@ cython_debug/
 #.idea/
 
 
-#data
-
-.MNIST\*
-.PetImages\*
-.PetImages\Cat\*
-.PetImages\Dog\*
+# Data directories
+MNIST/
+PetImages/
+PetImages/Cat/
+PetImages/Dog/
